@@ -26,7 +26,7 @@
 
     <!-- dependencies -->
     <dependency id="cordova-plugin-device" />
-    <dependency id="cordova-plugin-app-event" locator="https://github.com/zfoltin/cordova-plugin-app-event.git"/>
+    <dependency id="cordova-plugin-app-event" url="https://github.com/zfoltin/cordova-plugin-app-event.git"/>
 
     <!-- info -->
     <info>
